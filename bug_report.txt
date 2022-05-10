@@ -1,1 +1,11 @@
-
+id -1 
+titles or summary- Не работает кнопка оплаты
+environment- Операционная система Win 10, browser Chrome 10.1
+step to reproduce- пройти по ссылке..., добавить товар в корзину, перейти в корзину, нажать кнопку для оплаты....
+expected results-Прошла оплата
+actual results-Ничего не происходит, деньги не списываются 
+priority-high
+severity-blocker
+attachment-скриншоты
+work around-нет
+reporter-Максим
